@@ -1,0 +1,8 @@
+sklearn
+imblearn
+pandas
+numpy
+nltk
+flask
+flask-restful
+gunicorn
